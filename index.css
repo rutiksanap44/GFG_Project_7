@@ -43,4 +43,12 @@ select{
 .comments input{
     height: 50px;
     width: 600px;
+    font-size: larger;
+}
+button{
+    width: 100%;
+    font-size: 25px;
+    color: black;
+    background-color: #05c46b;
+    border: 0cm;
 }
