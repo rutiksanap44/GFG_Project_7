@@ -1,0 +1,46 @@
+header{
+    font-size: 80px;
+    font-weight: bolder;
+    height: 300px;
+    text-align: center;
+}
+body{
+    background-color: #05c46b;
+}
+.form{
+    background-color: white;
+    padding: 15px;
+    margin: 10px;
+}
+.basic{
+    font-size: 28px;
+}
+.select{
+    font-size: 25px;
+}
+.recommend{
+    font-size: 25px;
+}
+.checkbox{
+    font-size: 23px;
+}
+.basic input{
+    height: 30px;
+    width: 300px;
+    font-size: 15px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+select{
+    height: 35px;
+    font-size: 15px;
+    margin-bottom: 15px;
+    width: 310px;
+}
+.comments label{
+    font-size: 25px;
+}
+.comments input{
+    height: 50px;
+    width: 600px;
+}
